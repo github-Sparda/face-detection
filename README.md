@@ -1,5 +1,6 @@
 # face-detection
-A demo tries to achieve real-time face detection with deep learning algorithms **YOLO**
+A demo tries to achieve real-time face detection with deep learning algorithms **YOLO**.
+
 Basically, this is a project which is used to learn some deep learning(DL) algorithms and image processing algorithms, at the same time
 , to improve the ability of programming. We welcome all programmers to modify these code and share ideas and knowledge.
 
